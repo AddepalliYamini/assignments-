@@ -1,0 +1,7 @@
+Number =float(input ("enter  any number: "))
+If number>0:
+  Print ("+ve number ")
+leif number <0:
+  Print ("-ve number ")
+else 
+  Print ("zero")
