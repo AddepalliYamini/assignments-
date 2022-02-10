@@ -1,0 +1,8 @@
+Positive  or negative  number 
+Number = float(input ("enter  any number: "))
+If num>0:
+   Print ("+ve numbers ")
+elif num<0:
+   Print ("-ve numbers")
+else
+   Print ("zero")
