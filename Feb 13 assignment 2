@@ -1,0 +1,11 @@
+a=20
+b=50
+If (a=b):
+   Print("a is equal to b")
+else
+   Print ("a is not equal b")
+elif(a>b):
+
+    print("a is big")
+elif:
+    print("b is big")
