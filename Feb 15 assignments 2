@@ -1,0 +1,16 @@
+a=int(input("enter a number "))
+b=int(input("enter a number"))
+a//b
+Print(a//b)
+O/p
+Enter a number =3
+Enter a number =5
+0
+a=float(input("enter a number "))
+b=float(input ("enter a number "))
+a/b
+Print (a/b)
+O/p
+enter a number =3
+enter a number =5
+0.6
