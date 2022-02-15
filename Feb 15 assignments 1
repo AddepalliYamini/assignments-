@@ -1,0 +1,12 @@
+a=int(input("enter a number "))
+b=int(input("enter a number"))
+C=a+b
+d=a-b
+e=a*b
+Print(c,d,e)
+O/p
+enter a number a=3
+enter a number b=2
+5
+1
+6
